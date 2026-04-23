@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Vitor Eduardo Dutra de Oliveira
 
-<!--
-**vitoreduardodutra/vitoreduardodutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software, com foco em desenvolvimento web, qualidade de software e evolução de produtos digitais.
 
-Here are some ideas to get you started:
+## Atualmente
+- Desenvolvimento do **AgroTask**
+- Atuação em **QA no Sobrevidas**
+- Estudos em React, Node.js, PostgreSQL, Docker e testes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Docker
+- Git e GitHub
+
+## Experiência prática
+Tenho atuado principalmente em projetos desenvolvidos em equipe e hospedados em organizações no GitHub, com foco em desenvolvimento, testes e melhoria contínua.
+
+## Contato
+- E-mail: vitoreduardodutra0@gmail.com
