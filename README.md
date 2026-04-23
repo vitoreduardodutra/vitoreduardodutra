@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Vitor Eduardo Dutra de Oliveira
 
-🎓 Estudante de Engenharia de Software
-💻 Focado em desenvolvimento web, qualidade de software e evolução de produtos digitais
+* 🎓 Estudante de Engenharia de Software
+* 💻 Focado em desenvolvimento web, qualidade de software e evolução de produtos digitais
 
 ---
 
